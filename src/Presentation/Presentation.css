@@ -32,4 +32,15 @@ a {
   color: yellow;
 }
 
+.position-relative {
+  position: relative;
+}
+.bottom-right {
+  position: absolute;
+  top: 30%;
+  right: 40%;
+}
+
+
+
 
