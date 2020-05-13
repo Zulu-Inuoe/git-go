@@ -8,7 +8,7 @@ const participants = [
   'Chelsea Irish',
   'Maria Demesa',
   'Quynh',
-	'Deb Vorndran'
+  'Deb Vorndran'
 ];
 
 export default
